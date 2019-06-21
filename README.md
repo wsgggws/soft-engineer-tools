@@ -1,2 +1,76 @@
-# my-macos-tools
-Some Apps, Command-lines, which run on MacOS
+# My MacOS Tools
+Some apps and command-lines, which run on my MacOS
+
+## MacOS Apps
+- [Alfred3](https://github.com/hjtianvip/alfred3-workflows)
+    - Features
+        - Web Search
+        - Clipboard
+        - Snippets
+        - System Control
+        - Terminal Control
+    - Workflows
+        - GitHub
+        - Gitmoji
+        - YouDao
+        - Stack Overflow
+        - Chrome Bookmarks
+        - V2EX
+        - Dash
+        - WiFi
+        - Audio Recording
+        - Display Brightness
+        - Search
+        - Caffeinate
+        - Colors
+        - Faker
+        - IP Address
+        - Launch in 3 browsers
+        - Mail
+        - NewFile
+        - Show Desktop
+        - Sublime Text
+        - TerminalFinder
+- Google Chrome (for search and over wall)
+    - Adblock (广告过滤)
+    - Googel translate (谷歌翻译)
+    - Checker Plus for Gmail (Gmail收件箱)
+    - JSONView (JSON格式化查看)
+    - octotree (github, gitlab project目录树)
+    - RSS Feed Reader (RSS 管理)
+    - Vimium (使用vim方式操作网页)
+    - Momentum(新标签页面，非常炫酷)
+    - LastPass(管理一个密码，其它的由它保管)
+    - Fireshot (截图)
+    - chrono (下载管理)
+    - Loom (Video Recorder)
+    - Tampermonkey (浏览器开挂)
+    - WhatRuns (网站分析)
+    - Dard Reader (extentsion护眼Light:Brightness -10:Contrast +30) + Morpheon Dark(themes深色主题)
+- NeteaseMusit (for Listening music)
+- Karabiner (for remapping keys)
+- Moom (for resizing and removing windows)
+- Fork (for GUI git)
+- Postmen (for requests)
+- Zoom (for meeting)
+- Dash (for documentation)
+- NetWorker (for network status)
+- Caffeine (for NOT sleeping)
+- TeamViewer (for remote controling and helping)
+- Typore (for editing MarkDown documentation)
+- CheatSheet (for showing shortcuts quickly)
+- IINA (for watching videos)
+- LICEcap (for recording gif)
+- Keycastr (for recording keyword)
+- The Unarchiver (for unraring unziping \*.zip \*.rar files)
+- Bitbar (for showing custom string) 
+- Docker-CE (for running docker container)
+- Outline, ShadowsocksX, Doutai (for surfing the Internet scientifically)
+
+## MacOS Command Lines
+- brew
+- mas
+- git
+- Item2 + Tmux + zsh + oh-my-zsh + autosuggestion + autojump + themes
+- Neovim
+- thefuck
