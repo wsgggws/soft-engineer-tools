@@ -45,6 +45,8 @@ Some apps and command-lines, which run on my MacOS
     - chrono (下载管理)
     - Loom (Video Recorder)
     - Tampermonkey (浏览器开挂)
+    - [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj)(添加请求头)
+    - [Axure RP Extension for Chrome](https://chrome.google.com/webstore/detail/axure-rp-extension-for-ch/dogkpdfcklifaemcdfbildhcofnopogp)(axure软件的chrome插件)
     - WhatRuns (网站分析)
     - Dard Reader (extentsion护眼Light:Brightness -10:Contrast +30) + Morpheon Dark(themes深色主题)
 - NeteaseMusit (for Listening music)
