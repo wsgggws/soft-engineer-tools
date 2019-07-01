@@ -49,6 +49,7 @@ Some apps and command-lines, which run on my MacOS
     - [Axure RP Extension for Chrome](https://chrome.google.com/webstore/detail/axure-rp-extension-for-ch/dogkpdfcklifaemcdfbildhcofnopogp)(axure软件的chrome插件)
     - WhatRuns (网站分析)
     - Dard Reader (extentsion护眼Light:Brightness -10:Contrast +30) + Morpheon Dark(themes深色主题)
+- Reeder (for reading interested website, 注册使用feedly账号，可使用同步功能)
 - NeteaseMusit (for Listening music)
 - Karabiner (for remapping keys)
 - Moom (for resizing and removing windows)
@@ -67,12 +68,14 @@ Some apps and command-lines, which run on my MacOS
 - The Unarchiver (for unraring unziping \*.zip \*.rar files)
 - Bitbar (for showing custom string) 
 - Docker-CE (for running docker container)
+- Dictionary (for translate, 配置好汉英字典及触摸板，默认快捷键为Ctrl+Command+D)
 - Outline, ShadowsocksX, Doutai (for surfing the Internet scientifically)
 
 ## MacOS Command Lines
 - brew
 - mas
 - git
+- gitsome (pip install gitsome)
 - Item2 + Tmux + zsh + oh-my-zsh + autosuggestion + autojump + themes
 - Neovim
 - thefuck
