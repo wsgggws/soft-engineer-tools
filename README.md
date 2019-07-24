@@ -68,7 +68,8 @@ Some apps and command-lines, which run on my MacOS
 - The Unarchiver (for unraring unziping \*.zip \*.rar files)
 - Bitbar (for showing custom string) 
 - Docker-CE (for running docker container)
-- Dictionary (for translate, 配置好汉英字典及触摸板，默认快捷键为Ctrl+Command+D)
+- AppCleaner (for cleaning app)
+- Dictionary (for translating, 配置好汉英字典及触摸板，默认快捷键为Ctrl+Command+D)
 - Outline, ShadowsocksX, Doutai (for surfing the Internet scientifically)
 
 ## MacOS Command Lines
@@ -79,3 +80,4 @@ Some apps and command-lines, which run on my MacOS
 - Item2 + Tmux + zsh + oh-my-zsh + autosuggestion + autojump + themes
 - Neovim
 - thefuck
+- Hexo + Next
