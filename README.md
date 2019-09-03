@@ -20,8 +20,6 @@ Some apps and command-lines, which run on my MacOS
         - Audio Recording
         - Display Brightness
         - Search
-        - Caffeinate
-        - Faker
         - IP Address
         - Launch in 3 browsers
         - Mail
@@ -38,7 +36,7 @@ Some apps and command-lines, which run on my MacOS
     - Vimium (使用vim方式操作网页)
     - Momentum(新标签页面，非常炫酷)
     - LastPass(管理一个密码，其它的由它保管)
-    - Fireshot (截图)
+    - Awesome Screenshot (截图)
     - chrono (下载管理)
     - Loom (Video Recorder)
     - Tampermonkey (浏览器开挂)
@@ -50,7 +48,10 @@ Some apps and command-lines, which run on my MacOS
 - Moom (for resizing and removing windows)
 - Snip (for cutting png)
 - ShortCat (for using keyboard anywhere)
-- Fork (for GUI git)
+- NeteaseMusit (for listening music)
+- Karabiner (for remapping keys)
+- Moom (for resizing and removing windows)
+- Fork (for using GUI git)
 - Postmen (for requests)
 - Zoom (for meeting)
 - Dash (for documentation)
@@ -69,6 +70,8 @@ Some apps and command-lines, which run on my MacOS
 - AppCleaner (for cleaning app)
 - Dictionary (for translating, 配置好汉英字典及触摸板，默认快捷键为Ctrl+Command+D)
 - Outline, ShadowsocksX, Doutai (for surfing the Internet scientifically)
+- Outlook (for receiving mail and schedulering calendar 公司使用微软outlook邮箱)
+- Xmind (画思维导图)
 
 ## MacOS Command Lines
 - brew
