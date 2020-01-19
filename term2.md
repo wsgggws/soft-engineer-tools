@@ -1,5 +1,8 @@
 # Term2
-TODO
+- oh-my-zsh
+- autosuggestion
+- autojumper
+- tmux
 
 ## Tmux快捷键
 ### Session

@@ -1,6 +1,8 @@
 # My MacOS Tools
 Some apps and command-lines, which run on my MacOS
 
+![wsgggws](./wsgggws.png)
+
 ## 基本配置
 - macOS High Sierra Version 10.13.6
 
