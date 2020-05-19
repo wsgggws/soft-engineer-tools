@@ -14,13 +14,12 @@ Some apps and command-lines, which run on my MacOS
 - [学会使用`Vim`并配置好它](https://github.com/wsgggws/my-neovim-configurations)
 
 ## 说在前面的可选建议
-- 能快速锁屏及切换到桌面(如System->Desktop->Screen Saver->Hot Corners定义光标到达屏幕四角时发生什么动作)
 - Finder太难用了, 那试用下[ranger](https://www.howtoing.com/ranger-console-file-manager-with-vi-key-bindings)这个命令行工具吧
 - 文件搜索`find`太慢了, 那试试`fzf`这个命令行工具吧, [这里](https://github.com/junegunn/fzf)
 - 想实时清楚自己的网速, 那安装`NetWorker`
 
 ## MacOS Apps
-- Item2
+- iTerm2
 - Alfred3
 - Google Chrome
 - NeteaseMusit
@@ -33,7 +32,9 @@ Some apps and command-lines, which run on my MacOS
 - Zoom
 - Dash
 - NetWorker
-- Caffeine
+- KeepingYouAwake
+- Usage
+- Noizio
 - TeamViewer
 - Typore
 - CheatSheet
@@ -60,8 +61,8 @@ Some apps and command-lines, which run on my MacOS
 - Hexo + Next
 
 
-### Term2
-Term2是macOS最好用的终端工具, 推荐配置tmux + oh-my-zsh + autosuggestion + autojumper, 其中tmux可以很好管理多窗口,
+### iTerm2
+Term2是macOS最好用的终端工具, 推荐配置tmux + oh-my-zsh(gruvbox-light.itermcolors) + autosuggestion + autojumper, 其中tmux可以很好管理多窗口,
 配置及快捷键见[这里](./term2.md), oh-my-zsh集成了很多好用的命令行插件, 解放你的双手,其配置与使用见[这里](./term2.md),
 autosuggestion能够自动补全你使用过的命令行, autojumper只要使用如`j *dir*`的命令即可快速跳转到你曾去过的目录,
 不要使用相对或者绝对路径了.
@@ -105,8 +106,14 @@ MacOS下Git的图形化提交工具, 还可以只提交修改后的小部分代�
 ### NetWorker
 你想知道你当前的网速吗? 它在bar上实时告诉你
 
-### Caffeine
-开会或者讲演时电脑却因为设置锁屏时间到达而锁屏了, 使用Caffeine点击下它可以让它不锁屏, 就不会尴尬了.
+### KeepingYouAwake
+开会或者讲演时电脑却因为设置锁屏时间到达而锁屏了, 使用KeepingYouAwake点击下它可以让它不锁屏, 就不会尴尬了.
+
+### Usage
+显示自己时间花费在哪些应用软件上
+
+### Noizio
+有很多种自然界的杂音，包括电闪雷鸣，动物，火车鸣叫...可以组合
 
 ### TeamViewer
 MacOS下的QQ是没有远程支持的, TeamViewer能够支持各种系统
