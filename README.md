@@ -219,4 +219,4 @@ autosuggestion能够自动补全你使用过的命令行, autojumper只要使用
 
 ### Hexo + Next
 - 如果你写博客, 可以利用Github Home Page配合Hexo + Next非常愉快的写静态博客.
-- 我的个人博客[https://wsgggws.github.io/blogs/](https://wsgggws.github.io/blogs/)正是使用Hexo+Next.
+- 我的个人博客[https://wsgggws.github.io](https://wsgggws.github.io)正是使用Hexo+Next.
