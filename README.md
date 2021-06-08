@@ -2,7 +2,7 @@
 
 ![wsgggws](./wsgggws.png)
 
-### 目标 -> `快`
+### 目标: `快`
 
 ## 强烈建议
 - [善用 Chrome](./chrome.md)
@@ -48,4 +48,5 @@
 |   fzf              |   模糊搜索        |
 |   rg               |   模糊搜索        |
 |   tmux             |   终端复用        |
+|   autojumper       |   快速跳转文件夹  |
 

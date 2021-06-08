@@ -1,5 +1,7 @@
 # vim 使用技巧
 
+### 目标: 快速移动 + 快速编辑 + 快速使用命令行
+
 - **移动(命令+插件)**
 - **编辑(命令+插件)**
 - **终端命令行**
@@ -8,7 +10,11 @@
 - 编程语言相关插件
 
 ## 移动
-- ^$ hjkl webWEB HML ft (){}% gg G / ctrl+o, ctrl+i, ctrl+l
+- 0^$ hjkl fFtT; webWEB %
+- HML zz (){} gg G /?n \*n
+- ctrl+o, ctrl+i
+- :number
+
 - vim-easymotion
 	- ss
 - fzf.vim
@@ -18,44 +24,42 @@
 	- [leader]b
 	- [leader]l
 	- [leader]h
+- coc.vim
+	- gd
 - vim-bookmarks
-	- [leader]mm
-	- [leader]mi
-	- [leader]mj, mk
+	- [leader]mi [leader]mm [leader]ma [leader]mj [leader]mk [leader]mc
+- TaskList.vim
+	- [leader]td
 - tagbar
 	- [leader]tt
 - FastFold
 	- [space], zA, zR
-- TaskList.vim
-	- [leader]td
-- vim-interestingwords
-	- [leader]k
-	- [leader]K
 
 ## 编辑
-- iIaAoOxXrR xp ddp yyp p ydcv + 文本对象(aw,as,ap,ab,at,iw,is,ip,ib,it)
-- `>>,<< :center, :left, :right`
-- u ctrl+r :r :w :normal `:s/{a}/{b}`
+- iIaAoOxXrR
+- cdpyvCDPYV
+- ctrl+h, ctrl+w, ctrl+u
+- J, ==,  `>>, <<, :center, :left, :right`
+- ~, gu, gU
+- u, ctrl+r
+- ctrl+v IA
+- :ctrl+r
+- :r, :w, :f
+- :normal, `:s/{a}/{b}`, :! cmd, :!!
 - qa -> q ->[number]@a
+
 - auto-pairs
 - vim-surround
-	- cs
-	- ds
-	- ys
+	- cs ds ys vs
 - vim-repeat
 - ultisnips
 - vim-snippets
 - coc.nvim
-	- CocUpdate
-	- CocInstall
 - ale
 - vim-commentary
-	- gcc
-	- gc
+	- gcc gc
 - vim-multiple-cursors
-	- ctrl+n
-	- ctrl+p
-	- ctrl+x
+	- ctrl+n ctrl+p ctrl+x
 
 ## 命令行
 - vim-floaterm
@@ -66,11 +70,9 @@
 - vim-nerdtree
 	- [lead]nf
 	- [lead]nt
-	- q m a ?
+	- ma mm ? q
 - vim-signify
-	- [leader]se
-	- [leader]sd
-	- [leader]st
+	- [leader]st [leader]sd
 
 ## 主题插件
 - vim-airline
@@ -83,6 +85,9 @@
 - gruvbox
 - vim-hybrid
 - onedark.vim
+- vim-interestingwords
+	- [leader]k
+	- [leader]K
 
 
 ## 编程语言
