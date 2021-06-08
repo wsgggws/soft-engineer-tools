@@ -1,4 +1,4 @@
-# Term2
+# iTerm2
 - oh-my-zsh
 - autosuggestion
 - autojumper
