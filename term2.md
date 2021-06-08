@@ -2,7 +2,7 @@
 - oh-my-zsh
 - autosuggestion
 - autojumper
-- tmux / ranger
+- tmux
 
 ## Tmux快捷键
 ### Session
