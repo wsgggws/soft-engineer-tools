@@ -5,7 +5,7 @@
 ## 强烈建议
 
 - [善用 Chrome](./chrome.md)
-- [善用 Alfred](./alfred.md)
+- [善用 Raycast](./todo.md)
 - [善用 iTerm2](./iterm2.md)
 - [善用 Neovim](./neovim.md)
 - [删除 MacOS 自带的英文输入法](https://www.zhihu.com/question/21459701), 只安装一个输入法，并使用 Shift 进行中英文切换
@@ -14,7 +14,7 @@
 |      软件       | 作用           |
 | :-------------: | :------------- |
 |     Chrome      | 搜索与网页浏览 |
-|     Alfred      | 效率神器       |
+|     Raycast     | 效率神器       |
 |     iTerm2      | 终端           |
 |      Moom       | 窗口管理       |
 |    Karabiner    | 改键           |
@@ -33,3 +33,4 @@
 |      IINA       | 视频播放       |
 |  NeteaseMusit   | 音乐播放       |
 | KeepingYouAwake | 防锁屏         |
+|   Hidden Bar    | 菜单栏管理     |
